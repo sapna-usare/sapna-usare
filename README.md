@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/sapna-usare/sapna-usare/blob/main/banner.png" alt="Sapna Usare Banner" width="100%">
+</p>
+
+
 <!-- HEADER -->
 <h1 align="center">👋 Hi, I'm <span style="color:#00BFFF;">Sapna Usare</span></h1>
 <h3 align="center">🎓 B.Sc. Computer Science Student | 📊 Aspiring Database Administrator & Data Analyst</h3>
